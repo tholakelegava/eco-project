@@ -331,7 +331,7 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   .pc-navbar .flex-container ul {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 60px;
     color: green;
   }
   .pc-navbar .flex-container ul button {
